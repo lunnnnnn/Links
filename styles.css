@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-color: #83a2f8;
+  }
+  
+  h1 {
+    font-size: 5rem;
+    color: #ffffff;
+    font-family: "Roboto", cursive;
+    text-shadow: 3px 0 #DA0463;
+  
+  }
+  h4 {
+    font-size: 1rem;
+    color: #080000;
+    font-family: "Roboto", cursive;
+  
+  }
